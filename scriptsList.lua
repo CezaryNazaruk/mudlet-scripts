@@ -70,5 +70,6 @@ return {
     "gmcp/gmcp_Objects_Nums",
     "gmcp/gmcp_Objects_Data",
 	"mapper/zaznaczanie",
-	"media/dzwieki"
+	"media/dzwieki",
+    "misc/efekty"
 }
